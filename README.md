@@ -1,6 +1,4 @@
 📦 Python-Repo
-│
-├── 📄 README.md
 ├── 📄 LICENSE
 ├── 📄 requirements.txt
 │
